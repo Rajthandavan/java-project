@@ -1,11 +1,12 @@
 <h1> Hello, Welcome to HPE-EC!! </h1>
 <h1> Devops-project1 </h1>
-<div id="tabs" style="width: 790px;">
-            <ul>
-                <li><a href="#tabs-1"><spring:message code="Tab1" /></a></li>
-                <li><a href="#tabs-2"><spring:message code="Tab2" /></a></li>
-                <li><a href="#tabs-3"><spring:message code="Tab3" /></a></li>
-                <li><a href="#tabs-4"><spring:message code="Tab4" /></a></li>
-                <li><a href="#tabs-5"><spring:message code="Tab5" /></a></li>
-                <li><a href="#tabs-6"><spring:message code="Tab6" /></a></li>
-            </ul>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Background Color: body gbcolor</title>
+</head>
+<body bgcolor="lightgreen">
+<h1>Background colour in HTML</h1>
+</body>
+</html>
