@@ -6,7 +6,6 @@
 <meta charset="UTF-8">
 <title>Background Color: body gbcolor</title>
 </head>
-<body bgcolor="lightgreen">
-<h1>Background colour in HTML</h1>
+<body bgcolor="green">
 </body>
 </html>
