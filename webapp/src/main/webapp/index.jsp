@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Background Color: body gbcolor</title>
+<title>HPE Website </title>
 </head>
 <body bgcolor="green">
 </body>
