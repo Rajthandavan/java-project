@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>HPE Website </title>
+<meta http-equiv="refresh" content="10">
 </head>
 <body bgcolor="green">
 </body>
