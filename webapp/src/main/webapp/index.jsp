@@ -5,6 +5,6 @@
 <title>HPE Website </title>
 <meta http-equiv="refresh" content="10">
 </head>
-<body bgcolor="yellow">
+<body bgcolor="pink">
 </body>
 </html>
