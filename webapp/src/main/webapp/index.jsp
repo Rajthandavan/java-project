@@ -6,6 +6,6 @@
 <title>HPE Website </title>
 <meta http-equiv="refresh" content="10">
 </head>
-<body bgcolor="Red">
+<body bgcolor="purple">
 </body>
 </html>
